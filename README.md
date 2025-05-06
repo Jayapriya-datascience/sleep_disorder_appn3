@@ -1,11 +1,11 @@
 
 # sleep_disorder_appn3
 # Project Overview
-Smart Detection of Sleep Disorders Using Machine Learning is a web-based application designed to predict common sleep disorders such as Insomnia, Sleep Apnea, and Anxiety based on health and lifestyle-related inputs.
+Smart Detection of Sleep Disorders Using Machine Learning is a web-based application designed to predict common sleep disorders such as **Insomnia, Sleep Apnea, and Anxiety** based on health and lifestyle-related inputs.
 
-The system uses the XGBoost Classifier algorithm, which is known for its high performance and accuracy. To handle class imbalance in the dataset, it applies SMOTE (Synthetic Minority Over-sampling Technique) during training. The frontend is built using Streamlit, providing a clean and interactive user interface.
+The system uses the **XGBoost Classifier** algorithm, which is known for its high performance and accuracy. To handle class imbalance in the dataset, it applies **SMOTE (Synthetic Minority Over-sampling Technique)** during training. The frontend is built using Streamlit, providing a clean and interactive user interface.
 
-Users can:
+**Users can:**
 -Enter personal and health data
 -Instantly view the predicted sleep disorder
 -Receive health tips
@@ -14,17 +14,17 @@ Users can:
 This project aims to spread awareness about sleep disorders and provide a smart, accessible tool for early detection and prevention.
 
 # Project Objectives
-✅ Early Detection: Predict sleep disorders like Insomnia, Sleep Apnea, and Anxiety using machine learning techniques.
+✅ **Early Detection:** Predict sleep disorders like Insomnia, Sleep Apnea, and Anxiety using machine learning techniques.
 
-✅ User-Friendly Interface: Provide a simple and interactive Streamlit-based web app for easy access and usability.
+✅ **User-Friendly Interface:** Provide a simple and interactive Streamlit-based web app for easy access and usability.
 
-✅ Health Awareness: Offer personalized health tips based on user input to promote better sleep habits.
+✅ **Health Awareness:** Offer personalized health tips based on user input to promote better sleep habits.
 
-✅ Report Generation: Allow users to download a summary of their inputs, prediction, and suggestions in PDF format.
+✅ **Report Generation:** Allow users to download a summary of their inputs, prediction, and suggestions in PDF format.
 
-✅ Data-Driven Solution: Use real-world health and lifestyle data to build a reliable and accurate predictive model.
+✅ **Data-Driven Solution:** Use real-world health and lifestyle data to build a reliable and accurate predictive model.
 
-✅ Address Class Imbalance: Apply SMOTE to improve model performance on under-represented sleep disorder cases.
+✅**Address Class Imbalance:** Apply SMOTE to improve model performance on under-represented sleep disorder cases.
 
  # ❗ Problem Statement
 Sleep disorders like Insomnia, Sleep Apnea, and Anxiety are increasingly common due to modern lifestyle factors such as stress, poor sleep habits, and lack of physical activity. Many individuals remain undiagnosed because early symptoms are often ignored or go unnoticed.
@@ -79,6 +79,7 @@ Used ReportLab to create a downloadable PDF of the prediction and tips.
 
 live demo lint: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
 
+![s1](https://github.com/user-attachments/assets/739cf637-aec8-49bf-9d72-cd320bebc4b1)
 
 
 
