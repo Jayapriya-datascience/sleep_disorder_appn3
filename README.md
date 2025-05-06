@@ -79,7 +79,7 @@ Used ReportLab to create a downloadable PDF of the prediction and tips.
 
 live demo lint: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
 
-![s1](https://github.com/user-attachments/assets/739cf637-aec8-49bf-9d72-cd320bebc4b1)
+
 
 
 
