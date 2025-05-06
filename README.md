@@ -1,5 +1,4 @@
-https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
-finallyy
+
 # sleep_disorder_appn3
 # Project Overview
 Smart Detection of Sleep Disorders Using Machine Learning is a web-based application designed to predict common sleep disorders such as Insomnia, Sleep Apnea, and Anxiety based on health and lifestyle-related inputs.
@@ -45,39 +44,41 @@ This system provides a quick, accessible, and user-friendly way to raise awarene
 
 # 🔄 Workflow of the Project
 Below is the step-by-step workflow followed in the project:
-
-# 1.📥 Data Collection
+**1.📥 Data Collection**
 
 Loaded the sleep disorder dataset (CSV format) containing health and lifestyle features.
 
-# 2.🧹 Data Preprocessing
+**2.🧹 Data Preprocessing**
 
 -Handled missing values and removed duplicates.
 -Applied Label Encoding for categorical columns.
 -Normalized data using MinMaxScaler.
 
-# 3.⚖️ Handling Class Imbalance
+**3.⚖️ Handling Class Imbalance**
 
 Applied SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
 
-# 4.🤖 Model Training
+**4.🤖 Model Training**
 
 -Used the XGBoost Classifier algorithm to train the model.
 -Performed train-test split to evaluate performance.
 
-# 5.✅ Model Evaluation
+**5.✅ Model Evaluation**
 
 -Evaluated accuracy, precision, recall, and F1-score.
 -Chose XGBoost for best performance.
 
-# 6.🌐 Streamlit Web Application
+**6.🌐 Streamlit Web Application**
 
 -Built a web interface to collect user inputs.
 -Displayed the prediction result and relevant health tips.
 
-# 7.📄 PDF Report Generation
+**7.📄 PDF Report Generation**
 
 Used ReportLab to create a downloadable PDF of the prediction and tips.
+
+live demo lint: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
+
 
 
 
