@@ -1,12 +1,4 @@
 
-
-
-
-https://github.com/user-attachments/assets/8d2c6cc7-6e3f-4142-b877-8960de5ef70c
-
-
-
-
 # sleep_disorder_appn3
 # Project Overview
 Smart Detection of Sleep Disorders Using Machine Learning is a web-based application designed to predict common sleep disorders such as **Insomnia, Sleep Apnea, and Anxiety** based on health and lifestyle-related inputs.
@@ -86,6 +78,15 @@ Applied SMOTE (Synthetic Minority Over-sampling Technique) to balance the datase
 Used ReportLab to create a downloadable PDF of the prediction and tips.
 
 live demo lint: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
+
+
+
+
+https://github.com/user-attachments/assets/8d2c6cc7-6e3f-4142-b877-8960de5ef70c
+
+
+
+
 
 
 
