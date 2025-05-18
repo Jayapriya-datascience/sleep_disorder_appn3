@@ -77,7 +77,7 @@ Applied SMOTE (Synthetic Minority Over-sampling Technique) to balance the datase
 
 Used ReportLab to create a downloadable PDF of the prediction and tips.
 
-live demo lint: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
+live demo link: https://sleepdisorderappn3-bayekn33udywanltmka3xnfinally.streamlit.app/
 
 
 
