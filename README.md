@@ -1,5 +1,3 @@
-
-# sleep_disorder_appn3
 # Project Overview
 Smart Detection of Sleep Disorders Using Machine Learning is a web-based application designed to predict common sleep disorders such as **Insomnia, Sleep Apnea, and Anxiety** based on health and lifestyle-related inputs.
 
